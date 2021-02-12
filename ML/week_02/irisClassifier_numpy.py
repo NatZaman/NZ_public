@@ -8,6 +8,8 @@ Original file is located at
 """
 
 #Rich says this looks good enough!
+##Sources
+#### http://saitcelebi.com/tut/output/part1.html#applying_gradient_descent
 
 from sklearn import datasets
 import numpy as np
