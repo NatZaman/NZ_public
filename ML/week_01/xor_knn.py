@@ -35,9 +35,6 @@ rng = np.random.RandomState(0)
 X = rng.randn(200, 2)
 y = np.logical_xor(X[:, 0] > 0, X[:, 1] > 0)
 
-print(X)
-print(y)
-
 # plt.scatter(x1, y1, c='red')
 # plt.scatter(x2, y2, c='blue')
 # plt.show()
