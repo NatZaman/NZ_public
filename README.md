@@ -4,5 +4,5 @@
 
 ### "***AlgsDesign***" contains some code snippets from a larger project in Design and Analysis of Algorithms course
 
-### DataStructures holds the project code for the implementation of the DocumentStore.
+### "***DataStructures***" holds the project code for the implementation of the DocumentStore.
 
